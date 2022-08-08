@@ -1,0 +1,19 @@
+{
+  "name": "vpom",
+  "version": "1.0.0",
+  "description": "Automation testing with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klins101/vPOM.git"
+  },
+  "author": "Klinsmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Klins101/vPOM/issues"
+  },
+  "homepage": "https://github.com/Klins101/vPOM#readme"
+}
